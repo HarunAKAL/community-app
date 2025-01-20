@@ -1,0 +1,1 @@
+Firebase veritabanı ve flutter-dart kullanılarak insanların etkinlik oluşturup yada katılabileceği ayrıca topluluk oluşturup katılabileceği katıldığı yada oluşturduğu topluluklardaki insanlar ile mesajlaşabileceği google ile giriş seçeneği olan mobil bir uygulama 
